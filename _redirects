@@ -1,0 +1,2 @@
+# Redirect domain aliases to primary domain
+https://niosmofoods.ie/* https://niosmofoods.com/:splat 301!
